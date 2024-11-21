@@ -19,7 +19,7 @@ export default function Home() {
             >
               Cloud Run
             </Link>
-            , a fully managed container that scales up and down with demand.
+            , a fully managed container that scales up and down with demand. Isn't that cool?
             Visit{" "}
             <Link href="/ssr">
               <code>/ssr</code>
